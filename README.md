@@ -55,5 +55,3 @@ Think of it as a smarter search that cares about word importance, not just match
 - rank-bm25
 - nltk
 
-## License
-This project is licensed under the MIT License.
